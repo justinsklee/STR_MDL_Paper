@@ -16,7 +16,6 @@ through corrective learning-based conversational programming**
 - **Type:** Grasshopper definition (`.gh`)
 - **Dependencies:** Rhino 8  
 - **Description:** Visualizer for structural model data exported from Midas GEN to CSV.  
-- **Purpose:** Inspect and render analytical model geometry and connectivity.
 
 ---
 
@@ -24,18 +23,12 @@ through corrective learning-based conversational programming**
 - **Type:** Dataset archive (`.zip`)
 - **Contents:** Standard reference model + four model variations  
 - **Format:** Structured CSV files  
-- **Purpose:** Benchmarking, reproducibility of task performance, and validation experiments.
 
 ---
 
 ### 3️⃣ Successful_Task_Set_II_Codes.zip
 - **Type:** Python modules archive (`.zip`)
 - **Contents:** Ten validated Python code modules for each Task Set II task  
-- **Purpose:** Reusability and cross-model generalization evaluations based on corrective learning cycles.
 
 ---
 
-## 📝 Notes
-- All structural datasets are anonymized.
-- Grasshopper visualizer optionally benefits from **Human UI** for interface layout.
-- Task Set II modules represent **successful iterations** after corrective learning feedback.
