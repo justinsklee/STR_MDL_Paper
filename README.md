@@ -1,4 +1,4 @@
-** _Public data supporting the manuscript:_
+_Public data supporting the manuscript:_
 
 # "Developing custom structural model review and editing modules  
 # through corrective learning-based conversational programming"*
