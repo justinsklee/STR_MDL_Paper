@@ -13,7 +13,7 @@ _Public data supporting the manuscript:_
 ### 1️⃣ Midas_CSV_Visualizer.gh
 - **Type:** Grasshopper definition (`.gh`)
 - **Dependencies:** Rhino 8  
-- **Description:** Visualizer for structural model data exported from Midas GEN to CSV.  
+- **Description:** Visualizer for structural model data exported from Midas GEN to CSV
 
 ---
 
@@ -26,7 +26,7 @@ _Public data supporting the manuscript:_
 
 ### 3️⃣ Successful_Task_Set_II_Codes.zip
 - **Type:** Python modules archive (`.zip`)
-- **Contents:** Ten validated Python code modules for each Task Set II task  
+- **Contents:** 10 successful Python modules for each task in Task Set II  
 
 ---
 
