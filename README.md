@@ -1,7 +1,7 @@
-# _Public data supporting the manuscript:_
+** _Public data supporting the manuscript:_
 
-*"Developing custom structural model review and editing modules  
-through corrective learning-based conversational programming"*
+# "Developing custom structural model review and editing modules  
+# through corrective learning-based conversational programming"*
 
 **Justin S. Lee¹ and Ghang Lee¹²\***  
 ¹ Department of Architecture and Architectural Engineering, Yonsei University, Seoul, Republic of Korea  
