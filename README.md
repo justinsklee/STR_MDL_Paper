@@ -1,5 +1,6 @@
 # STR_MDL_Paper
-Public data for the paper "Developing custom structural model review and editing modules  through corrective learning-based conversational programming".
+**Public data for the paper: 
+"Developing custom structural model review and editing modules  through corrective learning-based conversational programming".**
 
 Justin S. Lee1 and Ghang Lee12*
 
@@ -8,11 +9,11 @@ Justin S. Lee1 and Ghang Lee12*
 2 Institute for Advanced Studies, Technical University of Munich, Munich, Germany
 
 
-Midas_CSV_Visualizer.gh
-- Contains
+**Midas_CSV_Visualizer.gh**
+- Rhino 8 and Grasshopper based Midas GEN structural model data visualizer.
 
+**Structural_Models.zip**
+- Structural model data files (standard structural and 4 variations).
 
-Structural_Models.zip
-
-
-Successful_Task Set II_Codes.zip
+**Successful_Task Set II_Codes.zip**
+- 10 successful Python modules for each task in Task Set II. Used for reusability experiment.
