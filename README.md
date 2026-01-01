@@ -11,24 +11,24 @@ _Public data supporting the manuscript:_
 ## 📂 Public Data Resources
 
 ### 1️⃣ Structural Model Visualizer
-- **File:** Midas_CSV_Visualizer.gh
-- **Type:** Grasshopper definition (`.gh`)
+- **Download File:** Midas_CSV_Visualizer.gh
+- **File Type:** Grasshopper (`.gh`)
 - **Dependencies:** Rhino 8  
 - **Description:** Visualizer for structural model data exported from Midas GEN to CSV
 
 ---
 
 ### 2️⃣ Structural Model Data
-- **File:** Structural_Models.zip
-- **Type:** Dataset archive (`.zip`)
+- **Download File:** Structural_Models.zip
+- **File Type:** Comma-Separated Values  (`.csv`)
 - **Contents:** Standard reference model + four model variations  
 - **Format:** Structured CSV files  
 
 ---
 
 ### 3️⃣ Sample Python Modules
-- **File:** Successful_Task_Set_II_Codes.zip
-- **Type:** Python modules archive (`.zip`)
+- **Download File:** Successful_Task_Set_II_Codes.zip
+- **File Type:** Python Modules (`.py`)
 - **Contents:** 10 successful Python modules for each task in Task Set II  
 
 ---
