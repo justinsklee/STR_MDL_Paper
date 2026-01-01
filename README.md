@@ -13,8 +13,9 @@ _Public data supporting the manuscript:_
 ### 1️⃣ Structural Model Visualizer
 - **Download File:** Midas_CSV_Visualizer.gh
 - **File Type:** Grasshopper (`.gh`)
+- **Contents:** Visualizer for structural model data exported from Midas GEN to CSV
 - **Dependencies:** Rhino 8  
-- **Description:** Visualizer for structural model data exported from Midas GEN to CSV
+
 
 ---
 
@@ -22,7 +23,7 @@ _Public data supporting the manuscript:_
 - **Download File:** Structural_Models.zip
 - **File Type:** Comma-Separated Values  (`.csv`)
 - **Contents:** Standard reference model + four model variations  
-- **Format:** Structured CSV files  
+
 
 ---
 
