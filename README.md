@@ -30,7 +30,17 @@ _Public data supporting the manuscript:_
 ### 3️⃣ Sample Python Modules
 - **Download File:** Successful_Task_Set_II_Codes.zip
 - **File Type:** Python Modules (`.py`)
-- **Contents:** 10 successful Python modules for each task in Task Set II  
+- **Contents:** 10 successful Python modules for each task in Task Set II
 
 ---
+
+### 4️⃣ Experimental Prompt Templates
+
+- **Download File:** Prompt_set.md
+- **File Type:** Markdown (.md)
+- **Contents:** Verbatim prompt templates used in the experiments.
+
+---
+
+
 
