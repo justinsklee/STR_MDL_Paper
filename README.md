@@ -1,6 +1,6 @@
 _Public data supporting the manuscript:_
 
-# "Conversational programming for structural model review and editing via corrective learning"
+# "Conversational programming for structural model review and editing via conversational corrective grounding (CCG)"
 
 **Justin S. Lee¹ and Ghang Lee¹²\***  
 ¹ Department of Architecture and Architectural Engineering, Yonsei University, Seoul, Republic of Korea  
